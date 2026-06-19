@@ -22,3 +22,6 @@ git clone https://github.com/sweet-stuffs/hardware_xiaomi.git hardware/xiaomi
 
 # Kernel SM6150
 git clone https://github.com/PixelOS-Devices/android_kernel_xiaomi_sm6150.git kernel/xiaomi/sm6150
+
+# KProfiles
+git clone git clone https://github.com/yaap/packages_apps_KProfiles packages/apps/KProfiles
